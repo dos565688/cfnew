@@ -2,7 +2,7 @@ import { connect } from 'cloudflare:sockets';
 
 let userID = '619b8480-c86f-46b7-8b64-c9e313f3860d';
 
-let proxyIP = ''; // 填入你的proxyIP
+let proxyIP = 'ProxyIP.cmliussss.net'; // 填入你的proxyIP
 
 // 新增 - 预设优选域名列表
 const preferredDomains = ['visa.com.hk', 'ip.sb', 'icook.tw', 'cf.877771.xyz', 'skk.moe', 'cdn.tzpro.xyz', 'bestcf.top', 'cf.090227.xyz', 'cf.zhetengsha.eu.org'];
