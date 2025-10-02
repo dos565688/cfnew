@@ -1,6 +1,6 @@
 import { connect } from 'cloudflare:sockets';
 
-let userID = '02ea78b1-528f-495a-bea5-9daf26e0efa6';
+let userID = '619b8480-c86f-46b7-8b64-c9e313f3860d';
 
 let proxyIP = ''; // 填入你的proxyIP
 
